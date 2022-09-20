@@ -2,7 +2,7 @@
 Read all Piazza posts
 
 
-`ALL CREDIT GOES TO ALBERT SUN
+ALL CREDIT GOES TO ALBERT SUN
 
      ________   __        _______   ______   ______   _________   ______   __  __   ___   __      
     /_______/\ /_/\     /_______/\ /_____/\ /_____/\ /________/\ /_____/\ /_/\/_/\ /__/\ /__/\    
@@ -16,7 +16,6 @@ Read all Piazza posts
                                                                                              
                                                                                             
   github.com/AlbertSun0
-`
 
 How to use:
 
